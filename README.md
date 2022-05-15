@@ -145,5 +145,3 @@ company, by name.
 
 3. `deriveEmployeeAge()`: To derive the age from the date of birth of the employee.
 
-<hr>
-<em>This project was developed as part of the Data and Applications course, IIIT Hyderabad.</em>
